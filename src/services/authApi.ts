@@ -1,6 +1,6 @@
 // API service para autenticação e registro
 
-const API_BASE_URL = 'http://localhost:3333';
+const API_BASE_URL = 'https://uni-carona-back-end.onrender.com';
 
 export interface LoginData {
   email: string;
